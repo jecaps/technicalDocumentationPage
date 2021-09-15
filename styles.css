@@ -1,6 +1,7 @@
 body {
   overflow: hidden;
   color: gray;
+  font-family: "Open Sans", sans-serif;
 }
 
 .grid-container {
